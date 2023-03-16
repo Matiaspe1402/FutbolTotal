@@ -1,0 +1,108 @@
+body {
+    margin: auto;
+    font-family: 'Yatra One', cursive;
+}
+
+
+
+.container-categorias {
+    margin: auto;
+    padding: auto;
+    background-color: darkslategray;
+    height: 6rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoria {
+    margin: auto;
+    width: 11%;
+    height: 15%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoria img {
+    width: 4rem;
+    height: 4rem;
+}
+
+.argentinosmundo h2 {
+    font-size: 5rem;
+}
+
+.argentinosmundo {
+    margin: auto;
+    padding: 2%;
+    height: 90rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.argentinos {
+    margin: 1%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.argentinos img {
+    width: 25rem;
+    height: 20rem;
+    border-radius: 1rem;
+}
+
+#argentinosxelmundo {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 1%;
+    background-color:#6aa3b4;
+    color:whitesmoke;
+}
+
+#noticias {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 1%;
+    background-color:#6aa3b4;
+    color:whitesmoke;
+    width: 15rem;
+    margin: auto;
+    font-size: 2.5rem;
+
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-noticias {
+    margin: auto;
+    padding: 2%;
+    width: 84rem;
+    height: 80rem;
+    background-color: #6aa3b4;
+    margin-top: 3%;
+}
+
+.noticia {
+    margin: auto;
+    padding: auto;
+    width: 30%;
+    height: 30%;
+    background-color: whitesmoke;
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
